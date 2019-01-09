@@ -1,0 +1,15 @@
+{
+  "name": "sos_scripts",
+  "version": "1.0.0",
+  "description": "* basic.[py,js] provides examples of the interactions possible to get basic infrmation about teh service, a sensor and a particular offering.  * insert.[py,js] provides exampes for inserting sensors,procedures and data points * get_data.[py,js] prvides examples of teh different ways in which data can be requested and parsed from the SOS",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plotly": "^1.0.6",
+    "request": "^2.88.0"
+  }
+}
