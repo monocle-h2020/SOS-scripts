@@ -1,4 +1,4 @@
-## This repo provides example scirpts in both Python and NodeJS. The scripts are split into three; 
+## This repo provides example scripts in both Python and NodeJS. The scripts are split into three; 
 
 * basic.[py,js] provides examples of the interactions possible to get basic infrmation about teh service, a sensor and a particular offering. 
 * insert.[py,js] provides exampes for inserting sensors,procedures and data points
