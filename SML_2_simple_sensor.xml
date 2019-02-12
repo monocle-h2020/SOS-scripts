@@ -12,7 +12,7 @@ xsi:schemaLocation="http://www.opengis.net/sensorml/2.0 http://schemas.opengis.n
    <!--                  System Description               -->
    <!-- ================================================= -->
    <gml:description> Temperature sensor on my window </gml:description>
-   <gml:identifier codeSpace="uniqueID">myCompany.com.63547</gml:identifier>
+   <gml:identifier codeSpace="uniqueID"><{needs to be replaced with the generated sensorID}></gml:identifier>
     <!-- ================================================= -->
    <!--             Observed Property = Output            -->
    <!-- ================================================= -->
